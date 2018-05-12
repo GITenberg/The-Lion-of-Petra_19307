@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1481
     wikipedia: http://en.wikipedia.org/wiki/Talbot_Mundy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19307#The-Lion-of-Petra
 gutenberg_bookshelf: Adventure
 gutenberg_issued: '2006-09-17'
 gutenberg_type: Text
